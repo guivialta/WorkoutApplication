@@ -1,0 +1,4 @@
+git init
+git remote add origin https://github.com/guivialta/WorkoutApplication.git
+git commit -am "uma mensagem pro seu commit inicial"
+git push origin master 
